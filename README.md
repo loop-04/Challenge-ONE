@@ -18,4 +18,4 @@ Corresponde a una aplicación web para organizar sorteos de Amigo secreto. Permi
 1. Clonar el repositorio: 
 git clone https://github.com/loop-04/Challenge-ONE
 2. Abrir el archivo index.html en el navegador
-3. Hacer clic en "
+3. Hacer clic en "sortear amigo" para obtener el resultado.
